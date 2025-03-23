@@ -1,3 +1,3 @@
-resource "aws_instance" "first" {
+resource "aws_instance" "name" {
  
 }
